@@ -1,5 +1,5 @@
 {
-  "name": "project60_solana_dapp",
+  "name": "solana-swap",
   "private": true,
   "scripts": {
     "dev": "next dev",
